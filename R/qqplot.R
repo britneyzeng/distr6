@@ -8,7 +8,7 @@
 #3).coverage in plot.Distribution & coverage in pointwise()    same meaning?
 #   if not, use different names 
 #4).add argument 'n' (number of quantiles at which to do the comparison)?
-
+#5).plotting positions for qqplot
 
 #######################################################################
 #
