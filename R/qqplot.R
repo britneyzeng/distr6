@@ -154,3 +154,4 @@ qqplot <- function(x, y, nPoints = 3000, pos = 0.5,
 #                    withConf.pw = FALSE)
 #qqplot(Normal$new(mean = 15, sd = sqrt(30)), ChiSquared$new(df = 15),
 #                    withConf.sim = FALSE)
+
